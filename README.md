@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # node-js-sample
 
 This is a barebones Node.js app using the [Express](http://expressjs.com/) framework.
@@ -31,3 +32,9 @@ For more information about using Node.js on Heroku, see these Dev Center article
 - [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
 - [Building a Real-time, Polyglot Application with Node.js, Ruby, MongoDB and Socket.IO](https://devcenter.heroku.com/articles/realtime-polyglot-app-node-ruby-mongodb-socketio)
 - [Using Socket.IO with Node.js on Heroku](https://devcenter.heroku.com/articles/using-socket-io-with-node-js-on-heroku)
+=======
+node-js-sample
+==============
+
+sample node
+>>>>>>> 71e78ce96510b0ea925499e9b361cdf6d516fe5b
